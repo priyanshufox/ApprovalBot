@@ -48,6 +48,4 @@ npm start
 - `npm test` - Run tests
 - `npm run dev` - Start development server
 
-## License
 
-MIT
