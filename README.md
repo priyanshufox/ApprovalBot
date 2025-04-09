@@ -1,6 +1,11 @@
 # Slack Approval Bot
-
+![Image](https://github.com/user-attachments/assets/01feb825-33a8-470f-bb3b-5f2614dd9aeb)
 A Slack bot for managing approval requests in organizations.
+
+
+https://github.com/user-attachments/assets/d10ceda7-58a3-4a66-9185-921f4a153213
+
+
 
 ## Features
 
