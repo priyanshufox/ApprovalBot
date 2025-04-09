@@ -45,4 +45,8 @@ build/
 
 # Misc
 .tmp/
-.temp/ 
+.temp/
+
+# Build
+/build
+/dist 
